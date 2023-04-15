@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi There, I'm fitri
+## About me:
+- Nama             : Fitriani Hamenda
+- Alamat           : Kampung Bowongkulu
+- Tempat,Tgl Lahir : Bowongkulu,23 September 2001
+- Jenis Kelamin    : Perempuan
+- Status           : Lajang
+- Email            : fitrianihamenda@gmail.com
+- Nomor Hp         : 08225238####
 
-<!--
-**fitrianihamenda/fitrianihamenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education:
 
-Here are some ideas to get you started:
+### 1. [Politeknik Negeri Nusa Utara] | Sistem Informasi | Manganitu '2021-Sekarang'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2. [SMKs Muh Naha] | TKJ | Naha 1 '2016-2019'
+
+
+<br />
+<br />
+
+---
